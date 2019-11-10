@@ -6,7 +6,7 @@
 #include "token.h"
 #include "hash.h"
 
-/* Local Function Declarations (that you need to finish implementing) */
+/* Local Function Declarations */
 static int read_file(char *filename, char *line);
 static int parse_token(Symtab *symtab, Stack_head *stack, Token *tok);
 static int oper_val(Symtab *symtab, Stack_head *stack, Token *tok);

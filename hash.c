@@ -5,8 +5,7 @@
 #include "node.h"
 #include "hash.h"
 
-/* (IMPLEMENT THIS FUNCTION)
- * In this function, you will create a new Symtab struct.
+ /* In this function, you will create a new Symtab struct.
  * Follow the Directions in the Project Documentation for this Function
  * Return the pointer to the new symtab.
  * On any memory errors, return NULL

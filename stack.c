@@ -4,8 +4,7 @@
 #include "node.h"
 #include "stack.h"
 
-/* (IMPLEMENT THIS FUNCTION)
- * Create a new Stack_head struct on the Heap and return a pointer to it.
+ /* Create a new Stack_head struct on the Heap and return a pointer to it.
  * Follow the Directions in the Project Documentation for this Function
  * On any malloc errors, return NULL
  */
